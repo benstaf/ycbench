@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+ycbench/          # ← this is your old venv name
+lib/
+lib64/
+bin/
+include/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (remove this line if you want to keep your CSVs)
+data/*.csv
+
+# Misc
+.env
+.vscode/
+.idea/
+.DS_Store

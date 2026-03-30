@@ -1,0 +1,10 @@
+2026-03-16 09:34:51  INFO      Fetching YC batch dataset...
+2026-03-16 09:34:51  ERROR     Post search failed for '"Bidflow" YC': 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=%22Bidflow%22%20YC&limit=100&sort=relevance
+2026-03-16 09:34:52  WARNING   Comment search failed for '"Bidflow" YC': 403 Client Error: Forbidden for url: http://api.pushshift.io/reddit/search/comment?q=%22Bidflow%22%20YC&size=100
+2026-03-16 09:34:53  ERROR     Post search failed for '"Bidflow" "Y Combinator"': 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=%22Bidflow%22%20%22Y%20Combinator%22&limit=100&sort=relevance
+2026-03-16 09:34:53  WARNING   Comment search failed for '"Bidflow" "Y Combinator"': 403 Client Error: Forbidden for url: http://api.pushshift.io/reddit/search/comment?q=%22Bidflow%22%20%22Y%20Combinator%22&size=100
+2026-03-16 09:34:54  ERROR     Post search failed for '"Bidflow" W26': 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=%22Bidflow%22%20W26&limit=100&sort=relevance
+2026-03-16 09:34:55  WARNING   Comment search failed for '"Bidflow" W26': 403 Client Error: Forbidden for url: http://api.pushshift.io/reddit/search/comment?q=%22Bidflow%22%20W26&size=100
+2026-03-16 09:34:58  WARNING   NO RESULTS   Bidflow (slug=bidflow, domain=https://usebidflow.com)
+2026-03-16 09:34:58  ERROR     Post search failed for '"Galactic Resource Utilization Space, Inc. (GRU Space)" YC': 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=%22Galactic%20Resource%20Utilization%20Space,%20Inc.%20(GRU%20Space)%22%20YC&limit=100&sort=relevance
+2026-03-16 09:34:59  WARNING   Comment search failed for '"Galactic Resource Utilization Space, Inc. (GRU Space)" YC': 403 Client Error: Forbidden for url: http://api.pushshift.io/reddit/search/comment?q=%22Galactic%20Resource%20Utilization%20Space,%20Inc.%20(GRU%20Space)%22%20YC&size=100
