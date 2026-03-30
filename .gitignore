@@ -15,7 +15,7 @@ __pycache__/
 *.pyd
 
 # Data files (remove this line if you want to keep your CSVs)
-data/*.csv
+data/
 
 # Misc
 .env
