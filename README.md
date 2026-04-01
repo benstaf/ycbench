@@ -2,7 +2,8 @@
 
 **A live benchmark for forecasting startup outperformance in Y Combinator batches**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+[![](https://dcbadge.limes.pink/api/server/ekrySuRBf4)](https://discord.gg/ekrySuRBf4)
 
 Forecasting which startups will dominate a YC batch — **months before Demo Day**.
 
