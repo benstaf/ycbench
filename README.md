@@ -1,7 +1,6 @@
-# YC Bench
+# YC Bench: a live benchmark for forecasting startup outperformance in Y Combinator batches
 
-**A live benchmark for forecasting startup outperformance in Y Combinator batches**
-
+[Paper](https://hal.science/hal-05573226)
 
 [![](https://dcbadge.limes.pink/api/server/ekrySuRBf4)](https://discord.gg/ekrySuRBf4)
 
