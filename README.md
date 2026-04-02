@@ -1,4 +1,4 @@
-# YC Bench: a live benchmark for forecasting startup outperformance in Y Combinator batches
+# YC Bench: a Live Benchmark for Forecasting Startup Outperformance in Y Combinator Batches
 
 [Paper](https://hal.science/hal-05573226)
 
