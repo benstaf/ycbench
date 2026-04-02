@@ -60,19 +60,19 @@ pip install -r requirements.txt
 
 A simple baseline using **Google mentions before the YC application deadline** achieved:
 
-- **Precision@20**: 30.0%
+- **Precision@20**: 70%
 - **Recall@11**: 55%
-- **Lift over random**: 2.75×
+- **Lift over random**: 7×
 - **Forecasting horizon**: ~5 months
 
 Full details are available in the paper.
 
 ## Paper
 
-**Title**: YC Bench: A Live Benchmark for Forecasting Startup Outperformance in Y Combinator Batches  
+**Title**: YC Bench: a Live Benchmark for Forecasting Startup Outperformance in Y Combinator Batches  
 **Author**: Mostapha Benhenda
 
-[📄 View the full paper (PDF)](paper/ycbench.pdf)
+[📄 View the full paper](hal.science/hal-05573226)
 
 ## Citation
 
