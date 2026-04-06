@@ -81,7 +81,7 @@ Full details are available in the paper.
   title={YC Bench: A Live Benchmark for Forecasting Startup Outperformance in Y Combinator Batches},
   author={Mostapha Benhenda},
   year={2026},
-  url={https://github.com/benstaf/ycbench}
+  url={https://arxiv.org/abs/2604.02378}
 }
 ```
 
