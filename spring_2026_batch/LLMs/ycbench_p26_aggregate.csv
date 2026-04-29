@@ -1,0 +1,89 @@
+Rank,Startup,Avg Occurrences,Score (x20)
+1,Hub.Xyz,3.9,78.0
+2,Mount,3.8,76.0
+3,Projectx,3.8,76.0
+4,Lumius,3.5,70.0
+5,Ardent,3.4,68.0
+6,Matforge,3.3,66.0
+7,Silmaril,3.3,66.0
+8,Cohesion,3.3,66.0
+9,Eden Robotics,3.2,64.0
+10,Benchspan,3.0,60.0
+11,Dispatch,2.9,58.0
+12,Primitive,2.8,56.0
+13,Clara,2.6,52.0
+14,Ontora,2.4,48.0
+15,Insforge,2.4,48.0
+16,Alchemy,2.4,48.0
+17,Standard Signal,2.3,46.0
+18,Drip,2.2,44.0
+19,Tenet Industries,2.2,44.0
+20,Harbor,2.1,42.0
+21,Kimpton Ai,2.0,40.0
+22,Arga Labs,2.0,40.0
+23,Refortifai,1.8,36.0
+24,Stablebrowse,1.6,32.0
+25,Korso,1.5,30.0
+26,Callab Ai,1.5,30.0
+27,Smartbase,1.3,26.0
+28,Pairio,1.3,26.0
+29,Runtime,1.3,26.0
+30,9 Mothers,1.2,24.0
+31,Klaimee,1.2,24.0
+32,Indexable,1.2,24.0
+33,Modern,1.2,24.0
+34,Tasklet,1.1,22.0
+35,Replicas,1.0,20.0
+36,Asendia Ai,1.0,20.0
+37,Superset,1.0,20.0
+38,Maquoketa Research,1.0,20.0
+39,Inloop Robotics,0.9,18.0
+40,Govguard,0.9,18.0
+41,Trellis,0.9,18.0
+42,Adialante,0.8,16.0
+43,Archer,0.8,16.0
+44,Gigacatalyst,0.8,16.0
+45,Aster,0.7,14.0
+46,Arzana,0.7,14.0
+47,Juno,0.6,12.0
+48,Datost,0.6,12.0
+49,Huscarl,0.5,10.0
+50,Keyframe Labs,0.5,10.0
+51,Interfaze,0.5,10.0
+52,Pulsent,0.5,10.0
+53,Fuchsia,0.4,8.0
+54,Minicor,0.4,8.0
+55,Stage,0.4,8.0
+56,Prism,0.4,8.0
+57,Saffron,0.3,6.0
+58,Rentahuman,0.3,6.0
+59,Lightsprint,0.3,6.0
+60,Elyra,0.3,6.0
+61,Testerarmy,0.3,6.0
+62,Sazabi,0.3,6.0
+63,Pentagon,0.3,6.0
+64,Taiga,0.3,6.0
+65,Complir,0.2,4.0
+66,"Gikl, Inc",0.2,4.0
+67,Sidekick,0.2,4.0
+68,Nine Fives,0.2,4.0
+69,Humwork,0.2,4.0
+70,Indexable (Ix.Dev),0.2,4.0
+71,Smol Machines,0.2,4.0
+72,Openwork,0.2,4.0
+73,Lab0,0.2,4.0
+74,Andustry,0.1,2.0
+75,Inth,0.1,2.0
+76,Regbase,0.1,2.0
+77,Lamina Labs,0.1,2.0
+78,Argo Labs,0.1,2.0
+79,Dayjob,0.1,2.0
+80,Aice Power,0.1,2.0
+81,Manicule,0.1,2.0
+82,Kinect,0.1,2.0
+83,Framewise Health,0.1,2.0
+84,Mochatrade,0.1,2.0
+85,Napkin Math,0.1,2.0
+86,Revnu,0.1,2.0
+87,Salesgraph,0.1,2.0
+88,Runharbor,0.1,2.0
