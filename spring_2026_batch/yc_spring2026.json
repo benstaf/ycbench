@@ -1,0 +1,1313 @@
+
+[
+  {
+    "slug": "drippay",
+    "name": "Drip",
+    "batch": "P26",
+    "one_liner": "Infrastructure to replace most monetization tooling",
+    "website": "https://drippay.dev/",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Sales Enablement",
+      "Billing",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "minicor",
+    "name": "Minicor",
+    "batch": "P26",
+    "one_liner": "Managed, self healing desktop automation at scale",
+    "website": "https://minicor.com",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "archer",
+    "name": "Archer",
+    "batch": "P26",
+    "one_liner": "Instant payouts for work and incentives.",
+    "website": "https://archermoney.com/",
+    "status": null,
+    "tags": [
+      "Crypto / Web3",
+      "Finance"
+    ]
+  },
+  {
+    "slug": "hubxyz",
+    "name": "Hub.xyz",
+    "batch": "P26",
+    "one_liner": "API for real-world training data.",
+    "website": "http://hub.xyz",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Labeling",
+      "Big Data",
+      "AI"
+    ]
+  },
+  {
+    "slug": "humwork",
+    "name": "Humwork",
+    "batch": "P26",
+    "one_liner": "Connect AI agents to human experts in 30 seconds",
+    "website": "https://humwork.ai",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "projectx",
+    "name": "ProjectX",
+    "batch": "P26",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "website": "https://www.projectx.cloud/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "cohesion",
+    "name": "Cohesion",
+    "batch": "P26",
+    "one_liner": "Your public equities agentic teammate ",
+    "website": "https://cohesionplatform.com/",
+    "status": null,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Investing"
+    ]
+  },
+  {
+    "slug": "openwork",
+    "name": "OpenWork",
+    "batch": "P26",
+    "one_liner": "The open source alternative to Claude Cowork",
+    "website": "https://openworklabs.com",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "callab-ai",
+    "name": "Callab AI",
+    "batch": "P26",
+    "one_liner": "AI voice agents for enterprise telephony systems.",
+    "website": "https://callab.ai",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Call Center",
+      "AI"
+    ]
+  },
+  {
+    "slug": "ontora",
+    "name": "Ontora",
+    "batch": "P26",
+    "one_liner": "AI agents that interview every employee to map how work gets done.",
+    "website": "https://ontora.com",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics",
+      "Operations"
+    ]
+  },
+  {
+    "slug": "eden-robotics",
+    "name": "Eden Robotics",
+    "batch": "P26",
+    "one_liner": "Autonomous services for humanity.",
+    "website": "https://www.edenrobotics.ai",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotic Process Automation",
+      "Robotics",
+      "Automation"
+    ]
+  },
+  {
+    "slug": "lightsprint",
+    "name": "Lightsprint",
+    "batch": "P26",
+    "one_liner": "Collaborative product development platform that lets non-engineering\u2026",
+    "website": "https://lightsprint.ai",
+    "status": null,
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "slug": "tasklet-2",
+    "name": "Tasklet",
+    "batch": "P26",
+    "one_liner": "The cloud agent operating system for knowledge work",
+    "website": "https://tasklet.ai",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "asendia-ai",
+    "name": "Asendia AI",
+    "batch": "P26",
+    "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
+    "website": "https://asendia.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "AI"
+    ]
+  },
+  {
+    "slug": "revnu",
+    "name": "Revnu",
+    "batch": "P26",
+    "one_liner": "Everything but the app itself",
+    "website": "https://revnu.app/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "Marketing"
+    ]
+  },
+  {
+    "slug": "elyra",
+    "name": "Elyra",
+    "batch": "P26",
+    "one_liner": "AI for Restaurant Reservations",
+    "website": "https://www.elyrasystems.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Restaurant Tech"
+    ]
+  },
+  {
+    "slug": "trellistech",
+    "name": "Trellis",
+    "batch": "P26",
+    "one_liner": "Autonomous Agents for Short Term Rentals",
+    "website": "https://trellistech.com",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "napkin-math",
+    "name": "Napkin Math",
+    "batch": "P26",
+    "one_liner": "Building Napkin Math, AI-powered food journaling for real people",
+    "website": "https://napkinmath.club",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Fitness",
+      "Digital Health",
+      "Food"
+    ]
+  },
+  {
+    "slug": "juno-chat",
+    "name": "Juno",
+    "batch": "P26",
+    "one_liner": "AI Health Assistant for Chronic Illness",
+    "website": "https://juno-chat.com/",
+    "status": null,
+    "tags": [
+      "Health Tech",
+      "Health & Wellness",
+      "Consumer Products"
+    ]
+  },
+  {
+    "slug": "textsidekick",
+    "name": "Sidekick",
+    "batch": "P26",
+    "one_liner": "AI-powered SMS assistant for deskless workers.",
+    "website": "https://www.textsidekick.com/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI Assistant"
+    ]
+  },
+  {
+    "slug": "huscarl",
+    "name": "Huscarl",
+    "batch": "P26",
+    "one_liner": "Actuarial intelligence for corporate risk managers",
+    "website": "https://www.huscarl.io/",
+    "status": null,
+    "tags": [
+      "Generative AI",
+      "Insurance",
+      "Customization"
+    ]
+  },
+  {
+    "slug": "govguard",
+    "name": "GovGuard",
+    "batch": "P26",
+    "one_liner": "AI Infrastructure for Government Agencies",
+    "website": "https://govguard.com",
+    "status": null,
+    "tags": [
+      "GovTech"
+    ]
+  },
+  {
+    "slug": "kimpton-ai",
+    "name": "Kimpton AI",
+    "batch": "P26",
+    "one_liner": "AI for portfolio managers",
+    "website": "https://kimpton.ai",
+    "status": null,
+    "tags": [
+      "Fintech",
+      "Investing",
+      "AI"
+    ]
+  },
+  {
+    "slug": "saudara-ai",
+    "name": "Saudara AI",
+    "batch": "P26",
+    "one_liner": "AI-native Sourcing Agency",
+    "website": "https://saudara.ai",
+    "status": null,
+    "tags": [
+      "Marketplace",
+      "B2B",
+      "AI"
+    ]
+  },
+  {
+    "slug": "kinect",
+    "name": "Kinect",
+    "batch": "P26",
+    "one_liner": "Personalized storefronts for every visitor",
+    "website": "https://www.trykinect.ai/",
+    "status": null,
+    "tags": [
+      "B2B",
+      "E-commerce",
+      "Conversational AI"
+    ]
+  },
+  {
+    "slug": "trybloom",
+    "name": "Bloom",
+    "batch": "P26",
+    "one_liner": "Bloom is the Brand OS for your business. ",
+    "website": "https://trybloom.ai",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "mount",
+    "name": "Mount",
+    "batch": "P26",
+    "one_liner": "Insure and secure your AI Agents",
+    "website": "https://mount.insure",
+    "status": null,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Security",
+      "Insurance",
+      "AI"
+    ]
+  },
+  {
+    "slug": "rentahuman",
+    "name": "RentAHuman",
+    "batch": "P26",
+    "one_liner": "Marketplace for AI agents to hire humans.",
+    "website": "https://rentahuman.ai",
+    "status": null,
+    "tags": [
+      "Marketplace",
+      "AI"
+    ]
+  },
+  {
+    "slug": "gojiberry-ai",
+    "name": "Gojiberry AI",
+    "batch": "P26",
+    "one_liner": "GTM Brain for small sales teams ",
+    "website": "https://www.gojiberry.ai",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "klaimee",
+    "name": "Klaimee",
+    "batch": "P26",
+    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
+    "website": "https://www.klaimee.ai",
+    "status": null,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS",
+      "Insurance",
+      "AI"
+    ]
+  },
+  {
+    "slug": "silmaril",
+    "name": "Silmaril",
+    "batch": "P26",
+    "one_liner": "Prompt injection defense that is self-healing",
+    "website": "https://silmaril.dev",
+    "status": null,
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "slug": "primitive",
+    "name": "primitive",
+    "batch": "P26",
+    "one_liner": "Communication for agents",
+    "website": "https://primitive.dev",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Automation",
+      "Email",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "ardent",
+    "name": "Ardent",
+    "batch": "P26",
+    "one_liner": "Database sandboxes for Agents",
+    "website": "https://tryardent.com",
+    "status": null,
+    "tags": [
+      "Data Engineering",
+      "Infrastructure",
+      "AI"
+    ]
+  },
+  {
+    "slug": "mochatrade",
+    "name": "Mochatrade",
+    "batch": "P26",
+    "one_liner": "US stock perps for global traders",
+    "website": "https://www.mochatrade.com",
+    "status": null,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance"
+    ]
+  },
+  {
+    "slug": "pairio",
+    "name": "Pairio",
+    "batch": "P26",
+    "one_liner": "AI-native industrial maintenance software",
+    "website": "https://pairio.com",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "tryprism",
+    "name": "Prism",
+    "batch": "P26",
+    "one_liner": "AI-native recruiting agency",
+    "website": "https://tryprism.com/",
+    "status": null,
+    "tags": [
+      "Recruiting",
+      "HR Tech",
+      "Talent Acquisition",
+      "AI"
+    ]
+  },
+  {
+    "slug": "gigacatalyst",
+    "name": "Gigacatalyst",
+    "batch": "P26",
+    "one_liner": "Customize your software to every user with AI",
+    "website": "https://gigacatalyst.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Enterprise",
+      "No-code"
+    ]
+  },
+  {
+    "slug": "tenet-industries",
+    "name": "Tenet Industries",
+    "batch": "P26",
+    "one_liner": "Drones as ammunition. ",
+    "website": "https://www.tenetindustries.com",
+    "status": null,
+    "tags": [
+      "Hardware",
+      "Drones",
+      "Manufacturing",
+      "Industrial"
+    ]
+  },
+  {
+    "slug": "stage",
+    "name": "Stage",
+    "batch": "P26",
+    "one_liner": "Code review platform for today\u2019s engineers",
+    "website": "https://www.stagereview.app/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "SaaS"
+    ]
+  },
+  {
+    "slug": "insforge",
+    "name": "InsForge",
+    "batch": "P26",
+    "one_liner": "The backend AI agents can actually use",
+    "website": "https://insforge.dev/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "testerarmy",
+    "name": "TesterArmy",
+    "batch": "P26",
+    "one_liner": "Test your app with AI, catch bugs before users do",
+    "website": "https://tester.army",
+    "status": null,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "slug": "lamina-labs",
+    "name": "Lamina Labs",
+    "batch": "P26",
+    "one_liner": "Visual infrastructure for EdTech AI applications",
+    "website": "https://laminalabs.ai",
+    "status": null,
+    "tags": [
+      "Education",
+      "Video",
+      "Edtech"
+    ]
+  },
+  {
+    "slug": "pulsent",
+    "name": "Pulsent",
+    "batch": "P26",
+    "one_liner": "AI Agents that watch, engage and convert your users.",
+    "website": "https://pulsent.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales Enablement",
+      "Monitoring"
+    ]
+  },
+  {
+    "slug": "smartbase",
+    "name": "Smartbase",
+    "batch": "P26",
+    "one_liner": "Automated order entry for manufacturers",
+    "website": "https://www.smartbase.so/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Manufacturing",
+      "Automation"
+    ]
+  },
+  {
+    "slug": "matforge",
+    "name": "matforge",
+    "batch": "P26",
+    "one_liner": "AI scientists to discover semiconductor materials",
+    "website": "https://matforge.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Advanced Materials",
+      "Semiconductors",
+      "AI"
+    ]
+  },
+  {
+    "slug": "imperfect",
+    "name": "Imperfect",
+    "batch": "P26",
+    "one_liner": "AI coach that connects your wearables to get you race day ready",
+    "website": "https://imperfect.co",
+    "status": null,
+    "tags": [
+      "Fitness",
+      "Health & Wellness",
+      "AI",
+      "AI Assistant"
+    ]
+  },
+  {
+    "slug": "fuchsia",
+    "name": "fuchsia",
+    "batch": "P26",
+    "one_liner": "AI that gets hardware compliance done in weeks, not months.",
+    "website": "https://getfuchsia.ai/",
+    "status": null,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Compliance",
+      "AI"
+    ]
+  },
+  {
+    "slug": "inth",
+    "name": "Inth",
+    "batch": "P26",
+    "one_liner": "Privacy Infrastructure for Developers",
+    "website": "https://inth.com",
+    "status": null,
+    "tags": [
+      "Compliance",
+      "Web Development"
+    ]
+  },
+  {
+    "slug": "keyframe-labs",
+    "name": "Keyframe Labs",
+    "batch": "P26",
+    "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
+    "website": "https://keyframelabs.com",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Video",
+      "API",
+      "AI"
+    ]
+  },
+  {
+    "slug": "andustry",
+    "name": "Andustry",
+    "batch": "P26",
+    "one_liner": "AI to source and sell industrial products",
+    "website": "http://andustry.com/",
+    "status": null,
+    "tags": [
+      "Marketplace",
+      "Sales",
+      "Manufacturing",
+      "Procurement",
+      "Industrial"
+    ]
+  },
+  {
+    "slug": "foaster",
+    "name": "Foaster",
+    "batch": "P26",
+    "one_liner": "Your AI-native partner for AI transformation. ",
+    "website": "https://foaster.ai",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise Software"
+    ]
+  },
+  {
+    "slug": "regbase",
+    "name": "Regbase",
+    "batch": "P26",
+    "one_liner": "Tracking global laws, grants and consultations",
+    "website": "https://regbase.com",
+    "status": null,
+    "tags": [
+      "Legal",
+      "Sales Enablement",
+      "LegalTech",
+      "Regtech"
+    ]
+  },
+  {
+    "slug": "asterlab",
+    "name": "Aster",
+    "batch": "P26",
+    "one_liner": "The First AI-Native AI Research Lab",
+    "website": "https://www.asterlab.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "AI"
+    ]
+  },
+  {
+    "slug": "aice-power",
+    "name": "AICE Power",
+    "batch": "P26",
+    "one_liner": "Smart energy monitoring for buildings.",
+    "website": "https://aicepower.com",
+    "status": null,
+    "tags": [
+      "Batteryless IoT Sensors",
+      "Hardware",
+      "Climate"
+    ]
+  },
+  {
+    "slug": "cignara",
+    "name": "Cignara",
+    "batch": "P26",
+    "one_liner": "AI voice & chat agents for sales and customer support at large B2C\u2026",
+    "website": "https://cignara.com/",
+    "status": null,
+    "tags": [
+      "AI",
+      "AI Assistant"
+    ]
+  },
+  {
+    "slug": "refortifai",
+    "name": "Refortifai",
+    "batch": "P26",
+    "one_liner": "Runtime security for AI agents",
+    "website": "https://refortif.ai",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Security",
+      "AI"
+    ]
+  },
+  {
+    "slug": "qomplement",
+    "name": "qomplement",
+    "batch": "P26",
+    "one_liner": "AI Agents for Document Filling",
+    "website": "https://qomplement.com/",
+    "status": null,
+    "tags": [
+      "Documents",
+      "B2B",
+      "AI"
+    ]
+  },
+  {
+    "slug": "arga-labs",
+    "name": "Arga Labs",
+    "batch": "P26",
+    "one_liner": "The validation infrastructure for AI agents",
+    "website": "https://www.argalabs.com/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "modern",
+    "name": "Modern",
+    "batch": "P26",
+    "one_liner": "AI agents for IT, HR & Operations teams",
+    "website": "https://getmodern.ai",
+    "status": null,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Healthcare IT"
+    ]
+  },
+  {
+    "slug": "benchspan",
+    "name": "Benchspan",
+    "batch": "P26",
+    "one_liner": "Real-time threat detection for AI agents in production",
+    "website": "https://www.benchspan.com",
+    "status": null,
+    "tags": [
+      "AIOps",
+      "Analytics",
+      "Security",
+      "Infrastructure",
+      "AI"
+    ]
+  },
+  {
+    "slug": "arzana",
+    "name": "Arzana",
+    "batch": "P26",
+    "one_liner": "AI automation for the manufacturing office",
+    "website": "https://arzana.ai",
+    "status": null,
+    "tags": [
+      "Manufacturing",
+      "Automation",
+      "Operations",
+      "AI",
+      "Industrial"
+    ]
+  },
+  {
+    "slug": "dayjob",
+    "name": "Dayjob",
+    "batch": "P26",
+    "one_liner": "AI Agents for Industrial Logistics",
+    "website": "https://www.getdayjob.ai",
+    "status": null,
+    "tags": [
+      "Logistics",
+      "Transportation",
+      "AI"
+    ]
+  },
+  {
+    "slug": "dispatch",
+    "name": "Dispatch",
+    "batch": "P26",
+    "one_liner": "Satellites for manufacturing in space",
+    "website": "https://dispatch.space/",
+    "status": null,
+    "tags": [
+      "Manufacturing",
+      "Aerospace",
+      "Advanced Materials"
+    ]
+  },
+  {
+    "slug": "stablebrowse",
+    "name": "StableBrowse",
+    "batch": "P26",
+    "one_liner": "Browser for AI agents",
+    "website": "https://stablebrowse.com/",
+    "status": null,
+    "tags": [
+      "API",
+      "Automation",
+      "Web Development",
+      "AI"
+    ]
+  },
+  {
+    "slug": "pentagon",
+    "name": "Pentagon",
+    "batch": "P26",
+    "one_liner": "Your AI agents, working as a team.",
+    "website": "https://pentagon.run",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise Software"
+    ]
+  },
+  {
+    "slug": "inloop-robotics",
+    "name": "InLoop Robotics",
+    "batch": "P26",
+    "one_liner": "Deploying robots that ask for help!",
+    "website": "https://inloop-robotics.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Logistics"
+    ]
+  },
+  {
+    "slug": "lumius",
+    "name": "Lumius",
+    "batch": "P26",
+    "one_liner": "Fast, smart, accessible 3D ultrasound for everyone",
+    "website": "https://www.lumius-imaging.com",
+    "status": null,
+    "tags": [
+      "Hard Tech",
+      "Medical Devices",
+      "Digital Health"
+    ]
+  },
+  {
+    "slug": "datost",
+    "name": "Datost",
+    "batch": "P26",
+    "one_liner": "AI data analyst in Slack. Democratize data.",
+    "website": "https://www.datost.com",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "AI Assistant"
+    ]
+  },
+  {
+    "slug": "korso",
+    "name": "Korso",
+    "batch": "P26",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "website": "https://korsoai.com/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Manufacturing",
+      "AI"
+    ]
+  },
+  {
+    "slug": "nine-fives",
+    "name": "Nine Fives",
+    "batch": "P26",
+    "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
+    "website": "https://ninefives.com/",
+    "status": null,
+    "tags": [
+      "Radar",
+      "Telecommunications",
+      "Electronics"
+    ]
+  },
+  {
+    "slug": "alchemyai",
+    "name": "Alchemy",
+    "batch": "P26",
+    "one_liner": "AI-powered image analysis for life sciences",
+    "website": "https://www.alchemyai.dev/",
+    "status": null,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Machine Learning",
+      "SaaS",
+      "Biotech",
+      "Automation"
+    ]
+  },
+  {
+    "slug": "framewise-health",
+    "name": "Framewise Health",
+    "batch": "P26",
+    "one_liner": "AI-personalized patient recovery videos",
+    "website": "https://framewisehealth.com",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ]
+  },
+  {
+    "slug": "totalis",
+    "name": "Totalis",
+    "batch": "P26",
+    "one_liner": "derivative layer for prediction markets",
+    "website": "https://www.totalis.trade",
+    "status": null,
+    "tags": [
+      "DeFi",
+      "APIs"
+    ]
+  },
+  {
+    "slug": "taiga",
+    "name": "Taiga",
+    "batch": "P26",
+    "one_liner": "Full-stack Medical Billing Services",
+    "website": "https://usetaiga.com",
+    "status": null,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "slug": "runtime",
+    "name": "Runtime",
+    "batch": "P26",
+    "one_liner": "Let all your team ship safely with coding agents",
+    "website": "https://www.runtm.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ]
+  },
+  {
+    "slug": "smol-machines",
+    "name": "smol machines",
+    "batch": "P26",
+    "one_liner": "Ship software faster with portable, self contained virtual machines.",
+    "website": "https://smolmachines.com/",
+    "status": null,
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kuli",
+    "name": "Kuli",
+    "batch": "P26",
+    "one_liner": "Claude Cowork for social media and creator marketers",
+    "website": "https://kuli.one",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Social Media"
+    ]
+  },
+  {
+    "slug": "maquoketa-research",
+    "name": "Maquoketa Research",
+    "batch": "P26",
+    "one_liner": "Intelligent one-way attack drones",
+    "website": "https://www.maquoketa.net",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Computer Vision",
+      "Manufacturing"
+    ]
+  },
+  {
+    "slug": "userlens",
+    "name": "Userlens",
+    "batch": "P26",
+    "one_liner": "AI agents that predicts churn months before it happens. ",
+    "website": "https://userlens.io",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Customer Success",
+      "Enterprise Software",
+      "AI Assistant"
+    ]
+  },
+  {
+    "slug": "kinro",
+    "name": "Kinro",
+    "batch": "P26",
+    "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
+    "website": "https://www.kinro.ai/",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "replicas",
+    "name": "Replicas",
+    "batch": "P26",
+    "one_liner": "Background coding agents for engineering teams",
+    "website": "https://replicas.dev",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "API",
+      "AI"
+    ]
+  },
+  {
+    "slug": "salesgraph",
+    "name": "Salesgraph",
+    "batch": "P26",
+    "one_liner": "the context layer for fast moving sales teams",
+    "website": "https://www.salesgraph.com/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales"
+    ]
+  },
+  {
+    "slug": "lab0",
+    "name": "Lab0",
+    "batch": "P26",
+    "one_liner": "Automated forward-deployed engineers (AI FDEs)",
+    "website": "https://lab0.ai",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ]
+  },
+  {
+    "slug": "standard-signal",
+    "name": "Standard Signal",
+    "batch": "P26",
+    "one_liner": "Hedge fund where AI researches and executes every trade",
+    "website": "https://standardsignal.com",
+    "status": null,
+    "tags": [
+      "Finance",
+      "AI"
+    ]
+  },
+  {
+    "slug": "ara",
+    "name": "Ara",
+    "batch": "P26",
+    "one_liner": "personal ai cloud computing for everyone",
+    "website": "https://ara.so",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Consumer"
+    ]
+  },
+  {
+    "slug": "runharbor",
+    "name": "Harbor",
+    "batch": "P26",
+    "one_liner": "AI system-of-record for clinical trial data",
+    "website": "https://runharbor.com/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ]
+  },
+  {
+    "slug": "saffron",
+    "name": "Saffron",
+    "batch": "P26",
+    "one_liner": "AI-Native Technical Assessments and Work Trials. ",
+    "website": "https://www.trysaffron.ai/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "HR Tech"
+    ]
+  },
+  {
+    "slug": "complir",
+    "name": "Complir",
+    "batch": "P26",
+    "one_liner": "Vanta for physical products",
+    "website": "https://complir.io/",
+    "status": null,
+    "tags": [
+      "Retail",
+      "Regtech",
+      "Consumer Products"
+    ]
+  },
+  {
+    "slug": "sherpa",
+    "name": "Sherpa",
+    "batch": "P26",
+    "one_liner": "Turn more website visitors into customers",
+    "website": "https://www.withsherpa.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ]
+  },
+  {
+    "slug": "amboras",
+    "name": "Amboras",
+    "batch": "P26",
+    "one_liner": "Let AI sell your stuff on autopilot",
+    "website": "https://amboras.com",
+    "status": null,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "E-commerce"
+    ]
+  },
+  {
+    "slug": "biostack-platforms",
+    "name": "BioStack Platforms",
+    "batch": "P26",
+    "one_liner": "Real world training envs for healthcare AI models",
+    "website": "https://www.getbiostack.com/",
+    "status": null,
+    "tags": []
+  },
+  {
+    "slug": "interfaze",
+    "name": "Interfaze",
+    "batch": "P26",
+    "one_liner": "AI model built for deterministic developer tasks",
+    "website": "https://interfaze.ai",
+    "status": null,
+    "tags": [
+      "Deep Learning",
+      "Developer Tools",
+      "Generative AI"
+    ]
+  },
+  {
+    "slug": "sazabi",
+    "name": "Sazabi",
+    "batch": "P26",
+    "one_liner": "The AI-native observability platform for fast-moving engineering teams",
+    "website": "https://www.sazabi.com/",
+    "status": null,
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "slug": "playablai",
+    "name": "Playabl.ai",
+    "batch": "P26",
+    "one_liner": "Prompt-to-play AI game builder for everyone",
+    "website": "https://playabl.ai",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Gaming"
+    ]
+  },
+  {
+    "slug": "adialante",
+    "name": "Adialante",
+    "batch": "P26",
+    "one_liner": "Cancer screening without barriers",
+    "website": "http://www.adialante.com",
+    "status": null,
+    "tags": [
+      "Hardware",
+      "Medical Devices",
+      "Health & Wellness"
+    ]
+  },
+  {
+    "slug": "manicule",
+    "name": "Manicule",
+    "batch": "P26",
+    "one_liner": "AI Native Technical Documentation Studio",
+    "website": "https://manicule.dev",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ]
+  },
+  {
+    "slug": "clara-2",
+    "name": "Clara",
+    "batch": "P26",
+    "one_liner": "AI primary care doctor",
+    "website": "http://askclara.com",
+    "status": null,
+    "tags": [
+      "Telehealth",
+      "Healthcare",
+      "Telemedicine",
+      "AI"
+    ]
+  },
+  {
+    "slug": "indexable",
+    "name": "Indexable",
+    "batch": "P26",
+    "one_liner": "sandbox infrastructure for AI agents",
+    "website": "https://ix.dev",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "slug": "superset",
+    "name": "Superset",
+    "batch": "P26",
+    "one_liner": "IDE for the AI Agents Era",
+    "website": "https://www.superset.sh/",
+    "status": null,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "slug": "standout",
+    "name": "Standout",
+    "batch": "P26",
+    "one_liner": "The Hollywood agent for startup talent",
+    "website": "https://standout.work",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Recruiting",
+      "Careers"
+    ]
+  },
+  {
+    "slug": "9-mothers-corporation",
+    "name": "9 Mothers",
+    "batch": "P26",
+    "one_liner": "AI weapon systems",
+    "website": "https://9mothers.com",
+    "status": null,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Drones",
+      "GovTech",
+      "Aerospace"
+    ]
+  },
+  {
+    "slug": "gikl-inc",
+    "name": "Gikl, Inc",
+    "batch": "P26",
+    "one_liner": "Accelerating scientific discovery with AI",
+    "website": "https://scienceswarm.ai",
+    "status": null,
+    "tags": [
+      "Swarm AI",
+      "AI",
+      "AI Assistant"
+    ]
+  }
+] 
