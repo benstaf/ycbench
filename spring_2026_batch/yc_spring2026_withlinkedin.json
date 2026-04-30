@@ -1,0 +1,2787 @@
+[
+  {
+    "slug": "ornadyne",
+    "name": "Ornadyne",
+    "batch": "P26",
+    "one_liner": "We're building robot birds for surveillance.",
+    "website": "https://ornadyne.com/",
+    "status": null,
+    "tags": [
+      "Security Orchestration, Automation and Response (SOAR)",
+      "Robotics",
+      "Drones",
+      "Aerospace"
+    ],
+    "founders": [
+      {
+        "name": "Geourg Kivijian",
+        "title": "Co-founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/geourg-kivijian/"
+      },
+      {
+        "name": "Armen Arakelyan",
+        "title": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/armen-arakelyan-171b71219/"
+      }
+    ]
+  },
+  {
+    "slug": "intelligence-factory",
+    "name": "Intelligence Factory",
+    "batch": "P26",
+    "one_liner": "Human Intelligence for Robots",
+    "website": "https://intelligence-factory.com",
+    "status": null,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Jalaj Shukla",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jalaj-shukla-635005167/"
+      },
+      {
+        "name": "Yash Sinha",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/yash-sinha-556b411b3/"
+      }
+    ]
+  },
+  {
+    "slug": "andco",
+    "name": "Andco",
+    "batch": "P26",
+    "one_liner": "End-to-end case workups for personal injury firms.",
+    "website": "http://www.useandco.com",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Legal"
+    ],
+    "founders": [
+      {
+        "name": "Ryan Xue",
+        "title": "Founder, CEO",
+        "linkedin_url": "https://www.linkedin.com/in/ryanxue/"
+      },
+      {
+        "name": "David Lee",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/lee-david3"
+      },
+      {
+        "name": "Michael Lemm",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/michael-s-lemm/"
+      }
+    ]
+  },
+  {
+    "slug": "dayjob",
+    "name": "Dayjob",
+    "batch": "P26",
+    "one_liner": "AI Agents for Industrial Logistics",
+    "website": "https://www.getdayjob.ai",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "George Postlethwaite",
+        "title": "CEO and Co-Founder",
+        "linkedin_url": "https://linkedin.com/in/georgepos"
+      },
+      {
+        "name": "Fred Fooks",
+        "title": "CTO & Co-Founder",
+        "linkedin_url": "https://linkedin.com/in/frederic-fooks"
+      }
+    ]
+  },
+  {
+    "slug": "hevn-inc",
+    "name": "HEVN, inc",
+    "batch": "P26",
+    "one_liner": "\"Brex\" for international companies",
+    "website": "https://gethevn.com",
+    "status": null,
+    "tags": [
+      "Finance",
+      "Consumer Finance",
+      "Neobank"
+    ],
+    "founders": [
+      {
+        "name": "Peter Volnov",
+        "title": "co-founder & CEO",
+        "linkedin_url": "https://linkedin.com/in/pvolnov"
+      },
+      {
+        "name": "Nikita Briuzgin",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/nikitadigital"
+      },
+      {
+        "name": "Pavel Mitsevich",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/pasha-mitsevich-a417682a0/"
+      },
+      {
+        "name": "Andrei Zhevlakov",
+        "title": "Co-Founder CTO",
+        "linkedin_url": "https://www.linkedin.com/in/azbang"
+      }
+    ]
+  },
+  {
+    "slug": "plan0-ai",
+    "name": "PLAN0 AI",
+    "batch": "P26",
+    "one_liner": "AI powered construction cost estimation & analytics.",
+    "website": "https://plan0.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Real Estate",
+      "Construction",
+      "Proptech"
+    ],
+    "founders": [
+      {
+        "name": "Arash Barati",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/arash-barati-06180926/"
+      },
+      {
+        "name": "Shervin Barati",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/shervin-barati-84852a33a/"
+      }
+    ]
+  },
+  {
+    "slug": "ara",
+    "name": "Ara",
+    "batch": "P26",
+    "one_liner": "Worlds fastest website builder in your sms",
+    "website": "https://ara.so",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Sven Myhre",
+        "title": "Co-founder, CTO",
+        "linkedin_url": "https://www.linkedin.com/in/sveinungmyhre/"
+      },
+      {
+        "name": "Adi Singh",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/adisinghlink"
+      }
+    ]
+  },
+  {
+    "slug": "humwork",
+    "name": "Humwork",
+    "batch": "P26",
+    "one_liner": "Connect AI agents to human experts in 30 seconds",
+    "website": "https://humwork.ai",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Rohan Datta",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/rohan-datta-2500"
+      },
+      {
+        "name": "Yash Goenka",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/yashvg"
+      }
+    ]
+  },
+  {
+    "slug": "gojiberry-ai",
+    "name": "Gojiberry AI",
+    "batch": "P26",
+    "one_liner": "GTM Brain for small sales teams ",
+    "website": "https://www.gojiberry.ai",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Pierre-Eliott Lallemant",
+        "title": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/pierre-eliott-lallemant-343a2b199/"
+      },
+      {
+        "name": "Rom\u00e0n Czerny",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/rom%C3%A0n-czerny-11b773199/"
+      },
+      {
+        "name": "Dylan TEIXEIRA",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/dylan-txa/"
+      }
+    ]
+  },
+  {
+    "slug": "oddpool",
+    "name": "Oddpool",
+    "batch": "P26",
+    "one_liner": "Institutional data broker for prediction markets",
+    "website": "https://www.oddpool.com",
+    "status": null,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "Analytics"
+    ],
+    "founders": [
+      {
+        "name": "Avi Arora",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/avi-arora/"
+      },
+      {
+        "name": "Ritesh Malpani",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ritesh-malpani"
+      }
+    ]
+  },
+  {
+    "slug": "runtime",
+    "name": "Runtime",
+    "batch": "P26",
+    "one_liner": "Let all your team ship safely with coding agents",
+    "website": "https://www.runtm.com/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Gus Trigos",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/gustavoatrigos"
+      }
+    ]
+  },
+  {
+    "slug": "saudara-ai",
+    "name": "Saudara AI",
+    "batch": "P26",
+    "one_liner": "AI Broker Connecting American Brands With The World's Best Factories",
+    "website": "https://saudara.ai",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Supply Chain"
+    ],
+    "founders": [
+      {
+        "name": "Edward Haryono",
+        "title": "Cofounder and CEO",
+        "linkedin_url": "https://www.linkedin.com/in/edward-haryono-tanuwijaya/"
+      },
+      {
+        "name": "Jennifer Prasetyo",
+        "title": "Co-Founder and CTO",
+        "linkedin_url": "https://www.linkedin.com/in/jenniferprasetyo"
+      }
+    ]
+  },
+  {
+    "slug": "silmaril",
+    "name": "Silmaril",
+    "batch": "P26",
+    "one_liner": "Prompt injection defense that is self-healing",
+    "website": "https://silmaril.dev",
+    "status": null,
+    "tags": [
+      "Security"
+    ],
+    "founders": [
+      {
+        "name": "Aum Upadhyay",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/aum-u-517016269/"
+      },
+      {
+        "name": "Eduardo Velasco",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/eduardo-velasco-b10ba826b/"
+      }
+    ]
+  },
+  {
+    "slug": "trellistech",
+    "name": "Trellis",
+    "batch": "P26",
+    "one_liner": "Autonomous Agents for Short Term Rentals",
+    "website": "https://trellistech.com",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Lodovico Benvenuti",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/lodovico-benvenuti-11678224a/"
+      },
+      {
+        "name": "Jan Sahagun",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jan-sahagun-escosa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+      }
+    ]
+  },
+  {
+    "slug": "reasonblocks",
+    "name": "ReasonBlocks",
+    "batch": "P26",
+    "one_liner": "Infra layer for smarter and cheaper AI agents",
+    "website": "https://reasonblocks.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "founders": [
+      {
+        "name": "Sajeev Magesh",
+        "title": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sajeev-magesh-765514209/"
+      },
+      {
+        "name": "Rohan Vij",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/rkvij/"
+      }
+    ]
+  },
+  {
+    "slug": "openwork",
+    "name": "OpenWork",
+    "batch": "P26",
+    "one_liner": "The open source alternative to Claude Cowork",
+    "website": "https://openworklabs.com",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Ben Shafii",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ben-shafii-450039107/"
+      }
+    ]
+  },
+  {
+    "slug": "pentagon",
+    "name": "Pentagon",
+    "batch": "P26",
+    "one_liner": "Your AI agents, working as a team.",
+    "website": "https://pentagon.run",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Edgar Pavlovsky",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/edgarpavlovsky/"
+      }
+    ]
+  },
+  {
+    "slug": "korso",
+    "name": "Korso",
+    "batch": "P26",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "website": "https://korsoai.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "founders": [
+      {
+        "name": "Daichi Hiraoka",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/daichihiraoka"
+      },
+      {
+        "name": "Alex Liu",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/alexdliu7"
+      },
+      {
+        "name": "Martin Pan",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/martin-pan-42bb20244/"
+      }
+    ]
+  },
+  {
+    "slug": "saffron",
+    "name": "Saffron",
+    "batch": "P26",
+    "one_liner": "Helping your company find 10x engineers. ",
+    "website": "https://www.trysaffron.ai/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "HR Tech"
+    ],
+    "founders": [
+      {
+        "name": "Robert Chondro",
+        "title": "Founder / CEO",
+        "linkedin_url": "https://www.linkedin.com/in/robertchondro"
+      },
+      {
+        "name": "Kazuma Choji",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/kazuma-choji/"
+      },
+      {
+        "name": "Jerry Yao",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/mjyao/"
+      }
+    ]
+  },
+  {
+    "slug": "foaster",
+    "name": "Foaster",
+    "batch": "P26",
+    "one_liner": "Your AI-native partner for AI transformation. ",
+    "website": "https://foaster.ai",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Alexandre Combes",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/alexandre-combes-2bb450271/"
+      },
+      {
+        "name": "Rapha\u00ebl Dabadie",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/rapha\u00ebl-dabadie-412bb9248/"
+      }
+    ]
+  },
+  {
+    "slug": "klaimee",
+    "name": "Klaimee",
+    "batch": "P26",
+    "one_liner": "Insurance for the agentic world. You deploy agents, we cover you.",
+    "website": "https://www.klaimee.ai",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Ines Boutemadja",
+        "title": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/inesboutemadja"
+      },
+      {
+        "name": "Julien Catonnet",
+        "title": "Co-founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/julien-catonnet-18624162/"
+      }
+    ]
+  },
+  {
+    "slug": "stablebrowse",
+    "name": "StableBrowse",
+    "batch": "P26",
+    "one_liner": "Browser for AI agents",
+    "website": "https://stablebrowse.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "API",
+      "Automation",
+      "Web Development"
+    ],
+    "founders": [
+      {
+        "name": "Sarthak Awasthi",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sarthak7awasthi/"
+      },
+      {
+        "name": "Jay Mehta",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jaymehta003"
+      },
+      {
+        "name": "Deepit Shah",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/deepit-shah/"
+      },
+      {
+        "name": "Somansh Shah",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/somanshshah"
+      }
+    ]
+  },
+  {
+    "slug": "memory-store",
+    "name": "Memory Store",
+    "batch": "P26",
+    "one_liner": "Shared context for all of your team's agents.",
+    "website": "https://memory.store",
+    "status": null,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Consumer Products"
+    ],
+    "founders": [
+      {
+        "name": "Ishita Jindal",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ishitajindal/"
+      },
+      {
+        "name": "Diwank Singh",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/diwank-tomer"
+      }
+    ]
+  },
+  {
+    "slug": "mount",
+    "name": "Mount",
+    "batch": "P26",
+    "one_liner": "Insure and secure your AI Agents",
+    "website": "https://mount.insure",
+    "status": null,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Security",
+      "Insurance",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Fabian Amherd",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/fabianamherd/"
+      },
+      {
+        "name": "John Bachmann",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/john-bachmann-844978301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+      }
+    ]
+  },
+  {
+    "slug": "trybloom",
+    "name": "Bloom",
+    "batch": "P26",
+    "one_liner": "Bloom is the Brand OS for your business. ",
+    "website": "https://trybloom.ai",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Ray Fitzgerald",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ray-fitzgerald-86b451148"
+      }
+    ]
+  },
+  {
+    "slug": "chert",
+    "name": "Chert",
+    "batch": "P26",
+    "one_liner": "AI Agents for Automated iMessage Outbound",
+    "website": "https://www.trychert.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "AI Assistant"
+    ],
+    "founders": [
+      {
+        "name": "Ian Fong",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ianyfong"
+      },
+      {
+        "name": "Gary Gao",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/garygao333/"
+      }
+    ]
+  },
+  {
+    "slug": "drippay",
+    "name": "Drip",
+    "batch": "P26",
+    "one_liner": "Infrastructure to replace most monetization tooling",
+    "website": "https://drippay.dev/",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Sales Enablement",
+      "Billing",
+      "Infrastructure"
+    ],
+    "founders": [
+      {
+        "name": "Lucas He",
+        "title": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/lucashe309/"
+      },
+      {
+        "name": "Mike Levin",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/mikelevin-/"
+      }
+    ]
+  },
+  {
+    "slug": "minicor",
+    "name": "Minicor",
+    "batch": "P26",
+    "one_liner": "Managed, self healing desktop automation at scale",
+    "website": "https://minicor.com",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Faizaan Chishtie",
+        "title": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/fchishtie/"
+      },
+      {
+        "name": "Saheed Akinbile",
+        "title": "Co-founder & CTO",
+        "linkedin_url": "https://linkedin.com/in/saheed-akinbile"
+      }
+    ]
+  },
+  {
+    "slug": "archer",
+    "name": "Archer",
+    "batch": "P26",
+    "one_liner": "Instant payouts for work and incentives.",
+    "website": "https://archermoney.com/",
+    "status": null,
+    "tags": [
+      "Crypto / Web3",
+      "Finance"
+    ],
+    "founders": [
+      {
+        "name": "Benjamin Nguyen",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/benjaminnguyen206/"
+      },
+      {
+        "name": "Vivek Yanamadula",
+        "title": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/vivekyy/"
+      }
+    ]
+  },
+  {
+    "slug": "hubxyz",
+    "name": "Hub.xyz",
+    "batch": "P26",
+    "one_liner": "API for real-world training data.",
+    "website": "http://hub.xyz",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Labeling",
+      "Big Data",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Armin Kiani",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/armin-k-3439033ab/"
+      },
+      {
+        "name": "Tim Sprecher",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/tim-sprecher-2a705220a/"
+      }
+    ]
+  },
+  {
+    "slug": "projectx",
+    "name": "ProjectX",
+    "batch": "P26",
+    "one_liner": "Infinity: the first OS where humans and agents work with no limits.",
+    "website": "https://www.projectx.cloud/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "founders": [
+      {
+        "name": "Rounak Adhikary",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/rounakadhikary/"
+      },
+      {
+        "name": "Bishal Karmakar",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/bishal-123-karmakar/"
+      },
+      {
+        "name": "Sourya Majumder",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/souryapx"
+      }
+    ]
+  },
+  {
+    "slug": "cohesion",
+    "name": "Cohesion",
+    "batch": "P26",
+    "one_liner": "Your public equities agentic teammate ",
+    "website": "https://cohesionplatform.com/",
+    "status": null,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Investing"
+    ],
+    "founders": [
+      {
+        "name": "Devon Krapcho",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/devon-krapcho-439a7498/"
+      },
+      {
+        "name": "Matthew McBrien",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/matthew-mcbrien-784b32116/"
+      },
+      {
+        "name": "Matt Munns",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/matthew-munns-98727b138/"
+      }
+    ]
+  },
+  {
+    "slug": "callab-ai",
+    "name": "Callab AI",
+    "batch": "P26",
+    "one_liner": "AI voice agents for enterprise telephony systems.",
+    "website": "https://callab.ai",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Call Center",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Haithem Kchaou",
+        "title": "Co-founder/CEO",
+        "linkedin_url": "https://www.linkedin.com/in/haithemkchaou/"
+      },
+      {
+        "name": "Chehir Dhaouadi",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/chehirdhawedi/"
+      }
+    ]
+  },
+  {
+    "slug": "ontora",
+    "name": "Ontora",
+    "batch": "P26",
+    "one_liner": "AI agents that interview every employee to map how work gets done.",
+    "website": "https://ontora.com",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics",
+      "Operations"
+    ],
+    "founders": [
+      {
+        "name": "Maximilian Arnold",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/arnold-max/"
+      },
+      {
+        "name": "Leon Iwanowitsch",
+        "title": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/leon-j-iwanowitsch/"
+      },
+      {
+        "name": "David Korn",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/david-korn-code/"
+      }
+    ]
+  },
+  {
+    "slug": "eden-robotics",
+    "name": "Eden Robotics",
+    "batch": "P26",
+    "one_liner": "Autonomous services for humanity.",
+    "website": "https://www.edenrobotics.ai",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotic Process Automation",
+      "Robotics",
+      "Automation"
+    ],
+    "founders": [
+      {
+        "name": "Stamatios Floratos",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/stamatis-floratos-535b19244"
+      },
+      {
+        "name": "Joseph Humphreys",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/joseph-humphreys-1163b8150"
+      }
+    ]
+  },
+  {
+    "slug": "lightsprint",
+    "name": "Lightsprint",
+    "batch": "P26",
+    "one_liner": "Collaborative product development platform that lets non-engineering\u2026",
+    "website": "https://lightsprint.ai",
+    "status": null,
+    "tags": [
+      "Developer Tools"
+    ],
+    "founders": [
+      {
+        "name": "Benedict Chan",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/bencxr"
+      },
+      {
+        "name": "Heng Hong Lee",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/henghonglee"
+      },
+      {
+        "name": "Ben Ong",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/benj-ong/"
+      }
+    ]
+  },
+  {
+    "slug": "tasklet-2",
+    "name": "Tasklet",
+    "batch": "P26",
+    "one_liner": "The cloud agent operating system for knowledge work",
+    "website": "https://tasklet.ai",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Jonny Dimond",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jonnydimond/"
+      },
+      {
+        "name": "Andrew Lee",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/startupandrew/"
+      }
+    ]
+  },
+  {
+    "slug": "asendia-ai",
+    "name": "Asendia AI",
+    "batch": "P26",
+    "one_liner": "AI Recruiters for Staffing Agencies and Enterprise",
+    "website": "https://asendia.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Rihab Lajmi",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/rihab-l-085182164/"
+      },
+      {
+        "name": "Badis Zormati",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/badis-zormati/"
+      }
+    ]
+  },
+  {
+    "slug": "revnu",
+    "name": "Revnu",
+    "batch": "P26",
+    "one_liner": "Everything but the app itself",
+    "website": "https://revnu.app/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "Marketing"
+    ],
+    "founders": [
+      {
+        "name": "George Jefferson",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/georgejeffers/"
+      },
+      {
+        "name": "art freebrey",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/artfreebrey"
+      }
+    ]
+  },
+  {
+    "slug": "elyra",
+    "name": "Elyra",
+    "batch": "P26",
+    "one_liner": "AI for Restaurant Reservations",
+    "website": "https://www.elyrasystems.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Restaurant Tech"
+    ],
+    "founders": [
+      {
+        "name": "Alan Mando",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/awmando/"
+      },
+      {
+        "name": "Felix Odeberg Glasenapp",
+        "title": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/felixoglasenapp/"
+      }
+    ]
+  },
+  {
+    "slug": "napkin-math",
+    "name": "Napkin Math",
+    "batch": "P26",
+    "one_liner": "Building Napkin Math, AI-powered food journaling for real people",
+    "website": "https://napkinmath.club",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Fitness",
+      "Digital Health",
+      "Food"
+    ],
+    "founders": [
+      {
+        "name": "Manuel Castro",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/manuel-castro-7795a091/"
+      },
+      {
+        "name": "Claire Nord",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/cmnord"
+      },
+      {
+        "name": "Jynnie Tang",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jynnie/"
+      }
+    ]
+  },
+  {
+    "slug": "juno-chat",
+    "name": "Juno",
+    "batch": "P26",
+    "one_liner": "AI Health Assistant for Chronic Illness",
+    "website": "https://juno-chat.com/",
+    "status": null,
+    "tags": [
+      "Health Tech",
+      "Health & Wellness",
+      "Consumer Products"
+    ],
+    "founders": [
+      {
+        "name": "Marshall Gould",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/marshall-gould/"
+      },
+      {
+        "name": "Isaac Tolley",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/isaactolley/"
+      }
+    ]
+  },
+  {
+    "slug": "textsidekick",
+    "name": "Sidekick",
+    "batch": "P26",
+    "one_liner": "AI-powered SMS assistant for deskless workers.",
+    "website": "https://www.textsidekick.com/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI Assistant"
+    ],
+    "founders": [
+      {
+        "name": "Justin So",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/justinso1/"
+      }
+    ]
+  },
+  {
+    "slug": "huscarl",
+    "name": "Huscarl",
+    "batch": "P26",
+    "one_liner": "Actuarial intelligence for corporate risk managers",
+    "website": "https://www.huscarl.io/",
+    "status": null,
+    "tags": [
+      "Generative AI",
+      "Insurance",
+      "Customization"
+    ],
+    "founders": [
+      {
+        "name": "Paulien Jeunesse",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/paulienjeunesse"
+      },
+      {
+        "name": "Alex Musy",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/alexandre-musy-653012148/"
+      }
+    ]
+  },
+  {
+    "slug": "govguard",
+    "name": "GovGuard",
+    "batch": "P26",
+    "one_liner": "AI Infrastructure for Government Agencies",
+    "website": "https://govguard.com",
+    "status": null,
+    "tags": [
+      "GovTech"
+    ],
+    "founders": [
+      {
+        "name": "Gleb Hulting",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/gleb-hulting-a45b903ab/"
+      },
+      {
+        "name": "Aditya Sabharwal",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/aditya-sabharwal-a2454a1ab/"
+      }
+    ]
+  },
+  {
+    "slug": "kimpton-ai",
+    "name": "Kimpton AI",
+    "batch": "P26",
+    "one_liner": "AI for portfolio managers",
+    "website": "https://kimpton.ai",
+    "status": null,
+    "tags": [
+      "Fintech",
+      "Investing",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Adrian Del Bosque",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/adriandelbosque/"
+      },
+      {
+        "name": "Mauricio Ortiz",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ortizmauricio01/"
+      },
+      {
+        "name": "Jack Zumwalt",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jack-zumwalt/"
+      }
+    ]
+  },
+  {
+    "slug": "kinect",
+    "name": "Kinect",
+    "batch": "P26",
+    "one_liner": "Personalized storefronts for every visitor",
+    "website": "https://www.trykinect.ai/",
+    "status": null,
+    "tags": [
+      "B2B",
+      "E-commerce",
+      "Conversational AI"
+    ],
+    "founders": [
+      {
+        "name": "Kratik Agrawal",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/kratikagrawal/"
+      },
+      {
+        "name": "Varun Kandula",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/varunkandula"
+      }
+    ]
+  },
+  {
+    "slug": "rentahuman",
+    "name": "RentAHuman",
+    "batch": "P26",
+    "one_liner": "Marketplace for AI agents to hire humans.",
+    "website": "https://rentahuman.ai",
+    "status": null,
+    "tags": [
+      "Marketplace",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Alexander Liteplo",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/alexander-liteplo"
+      }
+    ]
+  },
+  {
+    "slug": "primitive",
+    "name": "primitive",
+    "batch": "P26",
+    "one_liner": "Communication for agents",
+    "website": "https://primitive.dev",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Automation",
+      "Email",
+      "Infrastructure"
+    ],
+    "founders": [
+      {
+        "name": "Ethan Byrd",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/etbyrd/"
+      }
+    ]
+  },
+  {
+    "slug": "ardent",
+    "name": "Ardent",
+    "batch": "P26",
+    "one_liner": "Database sandboxes for Agents",
+    "website": "https://tryardent.com",
+    "status": null,
+    "tags": [
+      "Data Engineering",
+      "Infrastructure",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Vikram Chennai",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/vikram-chennai/"
+      }
+    ]
+  },
+  {
+    "slug": "mochatrade",
+    "name": "Mochatrade",
+    "batch": "P26",
+    "one_liner": "US stock perps for global traders",
+    "website": "https://www.mochatrade.com",
+    "status": null,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance"
+    ],
+    "founders": [
+      {
+        "name": "Parth Maheshwari",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/parthm1801"
+      },
+      {
+        "name": "Chetan Manda",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/chetanmanda/"
+      },
+      {
+        "name": "Utkarsh Sinha",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/utksn15/"
+      }
+    ]
+  },
+  {
+    "slug": "pairio",
+    "name": "Pairio",
+    "batch": "P26",
+    "one_liner": "AI-native industrial maintenance software",
+    "website": "https://pairio.com",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing"
+    ],
+    "founders": [
+      {
+        "name": "Matthias Wolf",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/matthias-wolf/"
+      },
+      {
+        "name": "Tim Zinkl",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/timzinkl/"
+      }
+    ]
+  },
+  {
+    "slug": "tryprism",
+    "name": "Prism",
+    "batch": "P26",
+    "one_liner": "AI-native recruiting agency",
+    "website": "https://tryprism.com/",
+    "status": null,
+    "tags": [
+      "Recruiting",
+      "HR Tech",
+      "Talent Acquisition",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Theo Kitsberg",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/theokitsberg/"
+      },
+      {
+        "name": "Axel La Pira",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/axel-la-pira"
+      }
+    ]
+  },
+  {
+    "slug": "gigacatalyst",
+    "name": "Gigacatalyst",
+    "batch": "P26",
+    "one_liner": "Customize your software to every user with AI",
+    "website": "https://gigacatalyst.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Enterprise",
+      "No-code"
+    ],
+    "founders": [
+      {
+        "name": "Namanyay Goel",
+        "title": "Founder/CEO",
+        "linkedin_url": "https://www.linkedin.com/in/namanyayg/"
+      }
+    ]
+  },
+  {
+    "slug": "tenet-industries",
+    "name": "Tenet Industries",
+    "batch": "P26",
+    "one_liner": "Drones as ammunition. ",
+    "website": "https://www.tenetindustries.com",
+    "status": null,
+    "tags": [
+      "Hardware",
+      "Drones",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "founders": [
+      {
+        "name": "Hugo Frisk",
+        "title": "Founder/CEO",
+        "linkedin_url": "https://www.linkedin.com/in/hugo-frisk/"
+      },
+      {
+        "name": "Fabian Andersson",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/fabian-andersson-11a067267"
+      },
+      {
+        "name": "Emil Falk",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/emilfalk/"
+      }
+    ]
+  },
+  {
+    "slug": "stage",
+    "name": "Stage",
+    "batch": "P26",
+    "one_liner": "Code review platform for today\u2019s engineers",
+    "website": "https://www.stagereview.app/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "SaaS"
+    ],
+    "founders": [
+      {
+        "name": "Charles Pan",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/charleslpan"
+      },
+      {
+        "name": "Dean Stratakos",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/dean-stratakos-8b338b149"
+      }
+    ]
+  },
+  {
+    "slug": "insforge",
+    "name": "InsForge",
+    "batch": "P26",
+    "one_liner": "The backend AI agents can actually use",
+    "website": "https://insforge.dev/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "founders": [
+      {
+        "name": "Hang Huang",
+        "title": "Co-founder & CEO",
+        "linkedin_url": "https://linkedin.com/in/hang-huang-oliver"
+      },
+      {
+        "name": "Tony Chang",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/tony-chang-0430/"
+      }
+    ]
+  },
+  {
+    "slug": "testerarmy",
+    "name": "TesterArmy",
+    "batch": "P26",
+    "one_liner": "Test your app with AI, catch bugs before users do",
+    "website": "https://tester.army",
+    "status": null,
+    "tags": [
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Oskar Kwa\u015bniewski",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/okwasniewski/"
+      },
+      {
+        "name": "Piotr Matyjasik",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/piotr-matyjasik/"
+      },
+      {
+        "name": "Szymon Rybczak",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/szymonrybczak/"
+      }
+    ]
+  },
+  {
+    "slug": "lamina-labs",
+    "name": "Lamina Labs",
+    "batch": "P26",
+    "one_liner": "Visual infrastructure for EdTech AI applications",
+    "website": "https://laminalabs.ai",
+    "status": null,
+    "tags": [
+      "Education",
+      "Video",
+      "Edtech"
+    ],
+    "founders": [
+      {
+        "name": "Kartikesh Mishra",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/mk314k/"
+      },
+      {
+        "name": "Sudip Rokaya",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sudip-rokaya-675604279/"
+      }
+    ]
+  },
+  {
+    "slug": "pulsent",
+    "name": "Pulsent",
+    "batch": "P26",
+    "one_liner": "AI Agents that watch, engage and convert your users.",
+    "website": "https://pulsent.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales Enablement",
+      "Monitoring"
+    ],
+    "founders": [
+      {
+        "name": "Nicol\u00f2 Magnante",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/nicol%C3%B2-magnante/"
+      },
+      {
+        "name": "Arseniy Shishaev",
+        "title": "Co-Founder and CTO",
+        "linkedin_url": "https://linkedin.com/in/arseniy-shishaev"
+      }
+    ]
+  },
+  {
+    "slug": "smartbase",
+    "name": "Smartbase",
+    "batch": "P26",
+    "one_liner": "Automated order entry for manufacturers",
+    "website": "https://www.smartbase.so/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Manufacturing",
+      "Automation"
+    ],
+    "founders": [
+      {
+        "name": "Sam Goldman",
+        "title": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/sam-goldman/"
+      },
+      {
+        "name": "Taira Fujioka",
+        "title": "Co-Founder & CTO",
+        "linkedin_url": "https://www.linkedin.com/in/taira-fujioka1999420/"
+      }
+    ]
+  },
+  {
+    "slug": "matforge",
+    "name": "matforge",
+    "batch": "P26",
+    "one_liner": "AI scientists to discover semiconductor materials",
+    "website": "https://matforge.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Advanced Materials",
+      "Semiconductors",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Akash Ramdas",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/akashramdas/"
+      },
+      {
+        "name": "Advaith Sridhar",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/advaith-sridhar/"
+      }
+    ]
+  },
+  {
+    "slug": "imperfect",
+    "name": "Imperfect",
+    "batch": "P26",
+    "one_liner": "AI coach that connects your wearables to get you race day ready",
+    "website": "https://imperfect.co",
+    "status": null,
+    "tags": [
+      "Fitness",
+      "Health & Wellness",
+      "AI",
+      "AI Assistant"
+    ],
+    "founders": [
+      {
+        "name": "Matin Tamizi",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/mtamizi"
+      }
+    ]
+  },
+  {
+    "slug": "fuchsia",
+    "name": "fuchsia",
+    "batch": "P26",
+    "one_liner": "AI that gets hardware compliance done in weeks, not months.",
+    "website": "https://getfuchsia.ai/",
+    "status": null,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Compliance",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Tony Gao",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/tony-gao5/"
+      }
+    ]
+  },
+  {
+    "slug": "inth",
+    "name": "Inth",
+    "batch": "P26",
+    "one_liner": "Privacy Infrastructure for Developers",
+    "website": "https://inth.com",
+    "status": null,
+    "tags": [
+      "Compliance",
+      "Web Development"
+    ],
+    "founders": [
+      {
+        "name": "Christopher Burns",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/burnedchris/"
+      }
+    ]
+  },
+  {
+    "slug": "keyframe-labs",
+    "name": "Keyframe Labs",
+    "batch": "P26",
+    "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
+    "website": "https://keyframelabs.com",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Video",
+      "API",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Kaahan Radia",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/kaahan-radia-2ba47354/"
+      },
+      {
+        "name": "Parth Radia",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/parthradia/"
+      }
+    ]
+  },
+  {
+    "slug": "andustry",
+    "name": "Andustry",
+    "batch": "P26",
+    "one_liner": "AI to source and sell industrial products",
+    "website": "http://andustry.com/",
+    "status": null,
+    "tags": [
+      "Marketplace",
+      "Sales",
+      "Manufacturing",
+      "Procurement",
+      "Industrial"
+    ],
+    "founders": [
+      {
+        "name": "Het Dave",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/hetdave/"
+      },
+      {
+        "name": "Johann St\u00fcrken",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/johannstuerken"
+      }
+    ]
+  },
+  {
+    "slug": "regbase",
+    "name": "Regbase",
+    "batch": "P26",
+    "one_liner": "Tracking global laws, grants and consultations",
+    "website": "https://regbase.com",
+    "status": null,
+    "tags": [
+      "Legal",
+      "Sales Enablement",
+      "LegalTech",
+      "Regtech"
+    ],
+    "founders": [
+      {
+        "name": "Natalie Aresta-Katz",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/natalie-aresta-katz-a60a0416a/"
+      },
+      {
+        "name": "Ethan Shea",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ethan-shea/"
+      }
+    ]
+  },
+  {
+    "slug": "asterlab",
+    "name": "Aster",
+    "batch": "P26",
+    "one_liner": "The First AI-Native AI Research Lab",
+    "website": "https://www.asterlab.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "AI"
+    ],
+    "founders": []
+  },
+  {
+    "slug": "aice-power",
+    "name": "AICE Power",
+    "batch": "P26",
+    "one_liner": "Smart energy monitoring for buildings.",
+    "website": "https://aicepower.com",
+    "status": null,
+    "tags": [
+      "Batteryless IoT Sensors",
+      "Hardware",
+      "Climate"
+    ],
+    "founders": [
+      {
+        "name": "R\u00e9mi Bouteiller",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/remi-bouteiller/"
+      },
+      {
+        "name": "Gregoire Chomette",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/gregoirechomette/"
+      }
+    ]
+  },
+  {
+    "slug": "cignara",
+    "name": "Cignara",
+    "batch": "P26",
+    "one_liner": "AI voice & chat agents for sales and customer support at large B2C\u2026",
+    "website": "https://cignara.com/",
+    "status": null,
+    "tags": [
+      "AI",
+      "AI Assistant"
+    ],
+    "founders": [
+      {
+        "name": "Nalin Gupta",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/nalingupta01"
+      }
+    ]
+  },
+  {
+    "slug": "refortifai",
+    "name": "Refortifai",
+    "batch": "P26",
+    "one_liner": "Runtime security for AI agents",
+    "website": "https://refortif.ai",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Security",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Rithik Jain",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/rithik--jain/"
+      },
+      {
+        "name": "Atman Kar",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/atman-kar/"
+      },
+      {
+        "name": "Sayan Mitra",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sayanmitra9/"
+      }
+    ]
+  },
+  {
+    "slug": "qomplement",
+    "name": "qomplement",
+    "batch": "P26",
+    "one_liner": "AI Agents for Document Filling",
+    "website": "https://qomplement.com/",
+    "status": null,
+    "tags": [
+      "Documents",
+      "B2B",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Andres Garza Garcia",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/andres-fernando-garza"
+      },
+      {
+        "name": "Kerim Taray",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/kerim-taray/"
+      }
+    ]
+  },
+  {
+    "slug": "arga-labs",
+    "name": "Arga Labs",
+    "batch": "P26",
+    "one_liner": "The validation infrastructure for AI agents",
+    "website": "https://www.argalabs.com/",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Infrastructure"
+    ],
+    "founders": [
+      {
+        "name": "Phillip Li",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/phillip-li-a28a84217/"
+      },
+      {
+        "name": "Akira Tong",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/akira-tong"
+      }
+    ]
+  },
+  {
+    "slug": "modern",
+    "name": "Modern",
+    "batch": "P26",
+    "one_liner": "AI agents for IT, HR & Operations teams",
+    "website": "https://getmodern.ai",
+    "status": null,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Healthcare IT"
+    ],
+    "founders": []
+  },
+  {
+    "slug": "arzana",
+    "name": "Arzana",
+    "batch": "P26",
+    "one_liner": "AI automation for the manufacturing office",
+    "website": "https://arzana.ai",
+    "status": null,
+    "tags": [
+      "Manufacturing",
+      "Automation",
+      "Operations",
+      "AI",
+      "Industrial"
+    ],
+    "founders": [
+      {
+        "name": "William Alexander",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/william--alexander/"
+      },
+      {
+        "name": "Marshall Kools",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/marshallkools/"
+      }
+    ]
+  },
+  {
+    "slug": "dispatch",
+    "name": "Dispatch",
+    "batch": "P26",
+    "one_liner": "Satellites for manufacturing in space",
+    "website": "https://dispatch.space/",
+    "status": null,
+    "tags": [
+      "Manufacturing",
+      "Aerospace",
+      "Advanced Materials"
+    ],
+    "founders": [
+      {
+        "name": "Payton Case",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/paytoncase/"
+      },
+      {
+        "name": "Andrew Mello",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/andrew-mello/"
+      }
+    ]
+  },
+  {
+    "slug": "inloop-robotics",
+    "name": "InLoop Robotics",
+    "batch": "P26",
+    "one_liner": "Deploying robots that ask for help!",
+    "website": "https://inloop-robotics.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Robotics",
+      "Logistics"
+    ],
+    "founders": [
+      {
+        "name": "Zakariea Sharfeddine",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/zakariea-sharfeddine"
+      },
+      {
+        "name": "Stepan Feduniak",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/stepan-feduniak-b33045276/"
+      },
+      {
+        "name": "Pasha Rizali",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/pasha-rizali"
+      }
+    ]
+  },
+  {
+    "slug": "lumius",
+    "name": "Lumius",
+    "batch": "P26",
+    "one_liner": "Fast, smart, accessible 3D ultrasound for everyone",
+    "website": "https://www.lumius-imaging.com",
+    "status": null,
+    "tags": [
+      "Hard Tech",
+      "Medical Devices",
+      "Digital Health"
+    ],
+    "founders": [
+      {
+        "name": "Chenhang Li",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/chenhang-li-00330632b/"
+      },
+      {
+        "name": "Luca Menozzi",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/luca-menozzi-7490a6154"
+      },
+      {
+        "name": "Tri Vu",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/tri-vu-pa/"
+      }
+    ]
+  },
+  {
+    "slug": "datost",
+    "name": "Datost",
+    "batch": "P26",
+    "one_liner": "AI data analyst in Slack. Democratize data.",
+    "website": "https://www.datost.com",
+    "status": null,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "AI Assistant"
+    ],
+    "founders": [
+      {
+        "name": "Maceo Cardinale Kwik",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/maceo-cardinale-kwik/"
+      },
+      {
+        "name": "Jason Wang",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jasonhy-wang/"
+      }
+    ]
+  },
+  {
+    "slug": "nine-fives",
+    "name": "Nine Fives",
+    "batch": "P26",
+    "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
+    "website": "https://ninefives.com/",
+    "status": null,
+    "tags": [
+      "Radar",
+      "Telecommunications",
+      "Electronics"
+    ],
+    "founders": [
+      {
+        "name": "Andrew Kurtz",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/andrew-e-kurtz/"
+      },
+      {
+        "name": "Noah Levy",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/noahmslevy/"
+      }
+    ]
+  },
+  {
+    "slug": "alchemyai",
+    "name": "Alchemy",
+    "batch": "P26",
+    "one_liner": "AI-powered image analysis for life sciences",
+    "website": "https://www.alchemyai.dev/",
+    "status": null,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Machine Learning",
+      "SaaS",
+      "Biotech",
+      "Automation"
+    ],
+    "founders": [
+      {
+        "name": "Phillip Baek",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/phillip-baek"
+      },
+      {
+        "name": "Liam McBride",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ljmcb"
+      }
+    ]
+  },
+  {
+    "slug": "framewise-health",
+    "name": "Framewise Health",
+    "batch": "P26",
+    "one_liner": "AI-personalized patient recovery videos",
+    "website": "https://framewisehealth.com",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ],
+    "founders": [
+      {
+        "name": "David Cui",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/david-cui-589a20228/"
+      },
+      {
+        "name": "Tane Kim",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/tanekim/"
+      }
+    ]
+  },
+  {
+    "slug": "totalis",
+    "name": "Totalis",
+    "batch": "P26",
+    "one_liner": "derivative layer for prediction markets",
+    "website": "https://www.totalis.trade",
+    "status": null,
+    "tags": [
+      "DeFi",
+      "APIs"
+    ],
+    "founders": [
+      {
+        "name": "Eric Liu",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ericliujt/"
+      },
+      {
+        "name": "Pravesh Mansharamani",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/pravesh-mansharamani/"
+      }
+    ]
+  },
+  {
+    "slug": "taiga",
+    "name": "Taiga",
+    "batch": "P26",
+    "one_liner": "Full-stack Medical Billing Services",
+    "website": "https://usetaiga.com",
+    "status": null,
+    "tags": [
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Nanda Guntupalli",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/nanda-guntupalli"
+      },
+      {
+        "name": "Adam Wax",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/adam-wax-20a6012aa/"
+      }
+    ]
+  },
+  {
+    "slug": "smol-machines",
+    "name": "smol machines",
+    "batch": "P26",
+    "one_liner": "Ship software faster with portable, self contained virtual machines.",
+    "website": "https://smolmachines.com/",
+    "status": null,
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "founders": [
+      {
+        "name": "BinBin He",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/binsquare"
+      },
+      {
+        "name": "Fu Qiao",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/fuqiao"
+      }
+    ]
+  },
+  {
+    "slug": "kuli",
+    "name": "Kuli",
+    "batch": "P26",
+    "one_liner": "Claude Cowork for social media and creator marketers",
+    "website": "https://kuli.one",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Social Media"
+    ],
+    "founders": [
+      {
+        "name": "Michael Hodara",
+        "title": "Cofounder and CEO",
+        "linkedin_url": "https://linkedin.com/in/michaelhodara"
+      },
+      {
+        "name": "Jonathan Hassan",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jonathan-salvador-hassan/"
+      }
+    ]
+  },
+  {
+    "slug": "maquoketa-research",
+    "name": "Maquoketa Research",
+    "batch": "P26",
+    "one_liner": "Intelligent one-way attack drones",
+    "website": "https://www.maquoketa.net",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Computer Vision",
+      "Manufacturing"
+    ],
+    "founders": [
+      {
+        "name": "Evan Yeager",
+        "title": "Co-Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/evanyeager"
+      },
+      {
+        "name": "Alejandro Hernandez",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/alejandrohernandez2535/"
+      },
+      {
+        "name": "David Muchow",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/david-muchow-57775a398/"
+      },
+      {
+        "name": "Aidan Williams",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/aidan-williams-055ba626b/"
+      }
+    ]
+  },
+  {
+    "slug": "userlens",
+    "name": "Userlens",
+    "batch": "P26",
+    "one_liner": "AI agents that predicts churn months before it happens. ",
+    "website": "https://userlens.io",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Customer Success",
+      "Enterprise Software",
+      "AI Assistant"
+    ],
+    "founders": [
+      {
+        "name": "Ankur Dahama",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ankurdahama/"
+      },
+      {
+        "name": "Hai Ta",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/anhaita"
+      }
+    ]
+  },
+  {
+    "slug": "kinro",
+    "name": "Kinro",
+    "batch": "P26",
+    "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
+    "website": "https://www.kinro.ai/",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Parth Ainampudi",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/partha42/"
+      },
+      {
+        "name": "Corentin Hugot",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/corentin-hugot/"
+      },
+      {
+        "name": "Pierre-Alexandre Kamienny",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/pakamienny/"
+      }
+    ]
+  },
+  {
+    "slug": "replicas",
+    "name": "Replicas",
+    "batch": "P26",
+    "one_liner": "Background coding agents for engineering teams",
+    "website": "https://replicas.dev",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "API",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Connor Loi",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/connor-loi/"
+      }
+    ]
+  },
+  {
+    "slug": "salesgraph",
+    "name": "Salesgraph",
+    "batch": "P26",
+    "one_liner": "the context layer for fast moving sales teams",
+    "website": "https://www.salesgraph.com/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales"
+    ],
+    "founders": [
+      {
+        "name": "Ricardo Nunez",
+        "title": "Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/ricardonunez-01/"
+      },
+      {
+        "name": "Ruhan Ponnada",
+        "title": "Co-founder",
+        "linkedin_url": "https://linkedin.com/in/ruhanponnada"
+      }
+    ]
+  },
+  {
+    "slug": "lab0",
+    "name": "Lab0",
+    "batch": "P26",
+    "one_liner": "Automated forward-deployed engineers (AI FDEs)",
+    "website": "https://lab0.ai",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "founders": [
+      {
+        "name": "Onkar Borade",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/onkar-borade/"
+      },
+      {
+        "name": "Lakshya Gupta",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/lakshya-gupta-0030771ba/"
+      },
+      {
+        "name": "Sujay Srivastava",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sujaysriv/"
+      }
+    ]
+  },
+  {
+    "slug": "standard-signal",
+    "name": "Standard Signal",
+    "batch": "P26",
+    "one_liner": "Hedge fund where AI researches and executes every trade",
+    "website": "https://standardsignal.com",
+    "status": null,
+    "tags": [
+      "Finance",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Michael Royzen",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/michaelroyzen/"
+      }
+    ]
+  },
+  {
+    "slug": "runharbor",
+    "name": "Harbor",
+    "batch": "P26",
+    "one_liner": "AI system-of-record for clinical trial data",
+    "website": "https://runharbor.com/",
+    "status": null,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ],
+    "founders": [
+      {
+        "name": "Albert Cai",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ac-ai"
+      },
+      {
+        "name": "Nathan Leung",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/nathanhleung"
+      }
+    ]
+  },
+  {
+    "slug": "complir",
+    "name": "Complir",
+    "batch": "P26",
+    "one_liner": "Vanta for physical products",
+    "website": "https://complir.io/",
+    "status": null,
+    "tags": [
+      "Retail",
+      "Regtech",
+      "Consumer Products"
+    ],
+    "founders": [
+      {
+        "name": "Gustav Bang",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/gustavbangn/"
+      },
+      {
+        "name": "Marc Kaa Brejner",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/marc-kaa-brejner/"
+      },
+      {
+        "name": "Tine K\u00fchnel",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/tinekuhnel/"
+      }
+    ]
+  },
+  {
+    "slug": "sherpa",
+    "name": "Sherpa",
+    "batch": "P26",
+    "one_liner": "Turn more website visitors into customers",
+    "website": "https://www.withsherpa.ai/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Ethan Kinnan",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ethan-kinnan/"
+      },
+      {
+        "name": "Norbu Sonam",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/norbusonam/"
+      }
+    ]
+  },
+  {
+    "slug": "amboras",
+    "name": "Amboras",
+    "batch": "P26",
+    "one_liner": "Let AI sell your stuff on autopilot",
+    "website": "https://amboras.com",
+    "status": null,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "E-commerce"
+    ],
+    "founders": [
+      {
+        "name": "Amin Mokadem",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/amin-mokadem-003bb3393/"
+      },
+      {
+        "name": "Imad Mokadem",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/imad-eddine-mokadem-36aa64224/"
+      }
+    ]
+  },
+  {
+    "slug": "biostack-platforms",
+    "name": "BioStack Platforms",
+    "batch": "P26",
+    "one_liner": "Real world training envs for healthcare AI models",
+    "website": "https://www.getbiostack.com/",
+    "status": null,
+    "tags": [],
+    "founders": [
+      {
+        "name": "Sanat Mishra",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sanat-m-4b5077a4/"
+      },
+      {
+        "name": "Parth Patwa",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/parth-patwa/"
+      }
+    ]
+  },
+  {
+    "slug": "interfaze",
+    "name": "Interfaze",
+    "batch": "P26",
+    "one_liner": "AI model built for deterministic developer tasks",
+    "website": "https://interfaze.ai",
+    "status": null,
+    "tags": [
+      "Deep Learning",
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "founders": [
+      {
+        "name": "Yoeven D Khemlani",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/yoeven"
+      },
+      {
+        "name": "Harsha Vardhan Khurdula",
+        "title": "Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/harsha-vardhan-khurdula-99b400183/"
+      }
+    ]
+  },
+  {
+    "slug": "sazabi",
+    "name": "Sazabi",
+    "batch": "P26",
+    "one_liner": "The AI-native observability platform for fast-moving engineering teams",
+    "website": "https://www.sazabi.com/",
+    "status": null,
+    "tags": [
+      "Developer Tools"
+    ],
+    "founders": [
+      {
+        "name": "Sherwood Callaway",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sherwoodcallaway/"
+      }
+    ]
+  },
+  {
+    "slug": "playablai",
+    "name": "Playabl.ai",
+    "batch": "P26",
+    "one_liner": "Prompt-to-play AI game builder for everyone",
+    "website": "https://playabl.ai",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Gaming"
+    ],
+    "founders": [
+      {
+        "name": "Hamza Al-Ali",
+        "title": "Founder & CEO",
+        "linkedin_url": "https://www.linkedin.com/in/hamzawy998"
+      },
+      {
+        "name": "Omar Jarrah",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/omarjarrah/"
+      },
+      {
+        "name": "Sanad Kiswani",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/sanadkiswani"
+      }
+    ]
+  },
+  {
+    "slug": "adialante",
+    "name": "Adialante",
+    "batch": "P26",
+    "one_liner": "Cancer screening without barriers",
+    "website": "http://www.adialante.com",
+    "status": null,
+    "tags": [
+      "Hardware",
+      "Medical Devices",
+      "Health & Wellness"
+    ],
+    "founders": [
+      {
+        "name": "Parker Jenkins",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/parker-jenkins-486893130/"
+      },
+      {
+        "name": "Efrain Torres",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/dr-efra%C3%ADn-torres-85293512a/"
+      }
+    ]
+  },
+  {
+    "slug": "manicule",
+    "name": "Manicule",
+    "batch": "P26",
+    "one_liner": "AI Native Technical Documentation Studio",
+    "website": "https://manicule.dev",
+    "status": null,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Naman Bansal",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/namban"
+      },
+      {
+        "name": "Shreyans Jain",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/sjain07"
+      }
+    ]
+  },
+  {
+    "slug": "clara-2",
+    "name": "Clara",
+    "batch": "P26",
+    "one_liner": "AI primary care doctor",
+    "website": "http://askclara.com",
+    "status": null,
+    "tags": [
+      "Telehealth",
+      "Healthcare",
+      "Telemedicine",
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Zeeshan Ahmed",
+        "title": "Co-founder",
+        "linkedin_url": "https://www.linkedin.com/in/zeeshan1293/"
+      },
+      {
+        "name": "George Favvas",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/georgefavvas"
+      },
+      {
+        "name": "Caitlin Swift",
+        "title": "Founder",
+        "linkedin_url": null
+      }
+    ]
+  },
+  {
+    "slug": "indexable",
+    "name": "Indexable",
+    "batch": "P26",
+    "one_liner": "sandbox infrastructure for AI agents",
+    "website": "https://ix.dev",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "founders": [
+      {
+        "name": "Andrew Gazelka",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/na"
+      }
+    ]
+  },
+  {
+    "slug": "superset",
+    "name": "Superset",
+    "batch": "P26",
+    "one_liner": "IDE for the AI Agents Era",
+    "website": "https://www.superset.sh/",
+    "status": null,
+    "tags": [
+      "AI"
+    ],
+    "founders": [
+      {
+        "name": "Kiet Ho",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/kiet-ho"
+      },
+      {
+        "name": "Satya Patel",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/saddlepaddle/"
+      },
+      {
+        "name": "Avi Peltz",
+        "title": "Founder",
+        "linkedin_url": "https://linkedin.com/in/avipeltz"
+      }
+    ]
+  },
+  {
+    "slug": "standout",
+    "name": "Standout",
+    "batch": "P26",
+    "one_liner": "The Hollywood agent for startup talent",
+    "website": "https://standout.work",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Recruiting",
+      "Careers"
+    ],
+    "founders": [
+      {
+        "name": "Alexis Aftalion",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/alexisaftalion"
+      },
+      {
+        "name": "Witold de La Chapelle",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/witold-dlc/"
+      }
+    ]
+  },
+  {
+    "slug": "9-mothers-corporation",
+    "name": "9 Mothers",
+    "batch": "P26",
+    "one_liner": "AI weapon systems",
+    "website": "https://9mothers.com",
+    "status": null,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Drones",
+      "GovTech",
+      "Aerospace"
+    ],
+    "founders": [
+      {
+        "name": "Russell Smith",
+        "title": "Founder / CEO",
+        "linkedin_url": "https://linkedin.com/in/russellhowardsmith"
+      },
+      {
+        "name": "Roman Khomenko",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/dowakin/"
+      },
+      {
+        "name": "Bogdan Pyzh",
+        "title": "Co-Founder, COO",
+        "linkedin_url": "https://www.linkedin.com/in/bogdan-pyzh-b5b77388"
+      }
+    ]
+  },
+  {
+    "slug": "gikl-inc",
+    "name": "Gikl, Inc",
+    "batch": "P26",
+    "one_liner": "Accelerating scientific discovery with AI",
+    "website": "https://scienceswarm.ai",
+    "status": null,
+    "tags": [
+      "Swarm AI",
+      "AI",
+      "AI Assistant"
+    ],
+    "founders": [
+      {
+        "name": "Peter Vajda",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/p%C3%A9ter-vajda-9a03aaa/"
+      },
+      {
+        "name": "Seiji Yamamoto",
+        "title": "Founder",
+        "linkedin_url": "https://www.linkedin.com/in/seiji-yamamoto-a630897/"
+      }
+    ]
+  },
+  {
+    "slug": "zolvo",
+    "name": "Zolvo",
+    "batch": "P26",
+    "one_liner": "AI that automates servicing for commercial lenders",
+    "website": "https://zolvo.com/",
+    "status": null,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Lending"
+    ],
+    "founders": [
+      {
+        "name": "Isabela Rodriguez",
+        "title": "Founder/CEO",
+        "linkedin_url": "https://www.linkedin.com/in/isabela-rodriguez-438785170/"
+      },
+      {
+        "name": "Tony Montes",
+        "title": "Founder/CTO",
+        "linkedin_url": "https://www.linkedin.com/in/t-montes"
+      }
+    ]
+  }
+]
